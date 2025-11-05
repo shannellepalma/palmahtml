@@ -59,15 +59,15 @@ git config --global user.email "you@youraddress.com"
 
 
 18. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
-Click the “+” next to each change to staged change it.
+Click the “+” next to each change to staged change it. Then click the circle named Conventional Commits.
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170334.png) 
 
-19. Then click the circle named Conventional Commits. It should open a tab like this
+19. After clicking conventional commits. It should open a tab like this
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
-20. Click feat. After clicking, it should look like this
+20. Click features. After clicking, it should look like this
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170523.png)
 
