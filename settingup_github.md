@@ -35,12 +35,11 @@
 
 12. After you create repository, Go to your VS Code and open terminal, and create bash terminal ('To create bash terminal press + and press Git bash')
 
-13. After you create bash terminal, copy this and paste it one by one in the bash terminal
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165221.png)
 
- ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165221.png)
+13. Go to this link (https://codemy.com/git/) 
 
-
-14. Go to this link (https://codemy.com/git/)
+14. After you create bash terminal and go to the given link, copy this and paste the code given one by one in the bash terminal
 
 15. For source control purposes, paste each line separately in the terminal. Change the text in quotes to your name and email address.
  
@@ -59,6 +58,7 @@ git init
 16. Go to the extension bar and install this two
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20181223.png)
+
 
 
 17. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
