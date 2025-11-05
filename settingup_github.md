@@ -47,14 +47,14 @@ Click the “+” next to each change to staged change it.
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
 15. Click feat. After clicking, it should look like this
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20170523.png)
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170523.png)
 
 16. Press None. After that it is up to you what gitmoji you will use
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20170530.png)
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170530.png)
 
 17. After you choose gitmoji, press enter twice
 18. Sync changes and you're done!!!!
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20171528.png)
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20171528.png)
 
 
 
