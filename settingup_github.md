@@ -41,19 +41,25 @@ git init
 
 13. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
 Click the “+” next to each change to staged change it.
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170334.png) 
 
 14. Then click the circle named Conventional Commits. It should open a tab like this
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
 15. Click feat. After clicking, it should look like this
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170523.png)
 
 16. Press None. After that it is up to you what gitmoji you will use
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170530.png)
 
 17. After you choose gitmoji, press enter twice
+
 18. Sync changes and you're done!!!!
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20171528.png)
 
 
