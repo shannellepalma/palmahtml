@@ -75,7 +75,7 @@ Click the “+” next to each change to staged change it. Then click the circle
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170530.png)
 
-22. After you choose gitmoji, press enter twice
+22. After you choose gitmoji, write what you want and press enter twice
 
 23. Sync changes and you're done!!!!
 
