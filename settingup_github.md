@@ -3,7 +3,7 @@
 1. Go to this link (https://code.visualstudio.com/)
 2. Download VS Code 
 3. Click Download for Windows
-![VS Code Installer Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/main/pictures/Screenshot%202025-11-05%20161021.png)
+![VS Code Installer Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/main/Screenshot%202025-11-05%20161021.png)
 
 4. Go to this link (https://git-scm.com).
 5. Click Install.
@@ -21,5 +21,7 @@
 
 10. Type "code ." in the command promt to open visual studio code.
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20164204.png)
+
+11. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
 
 
