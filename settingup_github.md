@@ -24,12 +24,12 @@
 
 11. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
 
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20165036.png) 
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20165135.png) 
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165036.png) 
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165135.png) 
 
 12. For source control purposes, paste each line separately in the terminal. Change the text in quotes to your name and email address.
 
-git config --global user.name "Your Name"
+git config --global user.name "Your Name" 
 
 git config --global user.email "you@youraddress.com"
 
@@ -41,10 +41,10 @@ git init
 
 13. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
 Click the “+” next to each change to staged change it.
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20170334.png) 
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170334.png) 
 
 14. Then click the circle named Conventional Commits. It should open a tab like this
-![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20170518.png)
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
 15. Click feat. After clicking, it should look like this
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20170523.png)
@@ -54,6 +54,7 @@ Click the “+” next to each change to staged change it.
 
 17. After you choose gitmoji, press enter twice
 18. Sync changes and you're done!!!!
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20171528.png)
 
 
 
