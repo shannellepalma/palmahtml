@@ -3,7 +3,7 @@
 1. Go to this link (https://code.visualstudio.com/)
 2. Download VS Code 
 3. Click Download for Windows
-![VS Code Installer Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/main/Screenshot%202025-11-05%20161021.png)
+![VS Code Installer Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/main/pictures/Screenshot%202025-11-05%20161021.png)
 
 4. Go to this link (https://git-scm.com).
 5. Click Install.
@@ -24,4 +24,13 @@
 
 11. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
 
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20165036.png) 
 
+12. For source control purposes, paste each line separately in the terminal. Change the text in quotes to your name and email address.
+git config --global user.name "Your Name"
+git config --global user.email "you@youraddress.com"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
+
+13. 
