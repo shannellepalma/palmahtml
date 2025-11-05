@@ -35,7 +35,8 @@
 
 12. After you create repository, Go to your VS Code and open terminal, and create bash terminal
 
-13. After you create cmd, copy this and paste it one by one in the bsah terminal
+13. After you create bash terminal, copy this and paste it one by one in the bash terminal
+ 
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20183616.png)
 
