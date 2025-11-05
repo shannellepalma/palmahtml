@@ -14,12 +14,16 @@
 # To sync your work from Visual Studio Code to your selected GitHub repository, follow these steps:
 
 7. Ensure that Visual Studio Code is connected to your GitHub account.
+
 8. Create a new folder and open it in Visual Studio Code.
+
 9. In the folder’s directory bar at the top, type cmd and press Enter to open the Command Prompt in that folder.
+
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20163939.png)
 
 10. Type "code ." in the command promt to open visual studio code.
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20164204.png)
 
 11. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
@@ -29,6 +33,7 @@
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165135.png) 
 
 12. Go to your VS Code and press ctrl+` to open the terminal. After that, press + and press Git bash
+
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165221.png)
 
