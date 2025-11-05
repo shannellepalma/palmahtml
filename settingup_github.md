@@ -7,6 +7,10 @@
 
 4. Go to this link (https://git-scm.com).
 5. Click Install.
-![] ()
+![] (https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/Screenshot%202025-11-05%20162631.png)
+
+6. Run the installer, then press next until it starts downloading.
+
+7. # Setting Up GitHub and Visual Studio Code
 
 
