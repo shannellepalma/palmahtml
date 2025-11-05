@@ -28,6 +28,8 @@
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165135.png) 
 
+12. Go to your VS Code and press ctrl+` to open the terminal. After that, press + and press Git bash
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20165221.png)
 
 
@@ -44,6 +46,7 @@ git config --global alias.co checkout
 git init
 
 13. Go to the extension bar and install this two
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20181223.png)
 
 
