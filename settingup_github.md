@@ -67,17 +67,17 @@ Click the “+” next to each change to staged change it. Then click the circle
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
-20. Click features. After clicking, it should look like this
+20. Click features. After clicking, it should look like this. Press None.
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170523.png)
 
-21. Press None. After that it is up to you what gitmoji you will use
+21. It should show a bunch of gitmoji, it is up to you what gitmoji you will use.
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170530.png)
 
 22. After you choose gitmoji, write what you want and press enter twice
 
-23. Sync changes and you're done!!!!
+23. Sync change, wait, and you're done!!!!
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20171528.png)
 
