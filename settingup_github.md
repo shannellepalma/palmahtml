@@ -41,6 +41,8 @@
 
 14. After you create bash terminal and go to the given link, copy this and paste the code given one by one in the bash terminal
 
+![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20225944.png)
+
 15. For source control purposes, paste each line separately in the terminal. Change the text in quotes to your name and email address.
  
 git config --global user.name "Your Name" 
@@ -53,34 +55,35 @@ git config --global alias.co checkout
 
 git init
 
+16. Also copy and paste this in the bash terminal one by one
+
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20183616.png)
 
-16. Go to the extension bar and install this two
+17. Go to the extension bar and install this two
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20181223.png)
 
 
-
-17. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
+18. Whenever you make changes in Visual Studio Code, the Source Control panel will highlight them.
 Click the “+” next to each change to staged change it.
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170334.png) 
 
-18. Then click the circle named Conventional Commits. It should open a tab like this
+19. Then click the circle named Conventional Commits. It should open a tab like this
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170518.png)
 
-19. Click feat. After clicking, it should look like this
+20. Click feat. After clicking, it should look like this
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170523.png)
 
-20. Press None. After that it is up to you what gitmoji you will use
+21. Press None. After that it is up to you what gitmoji you will use
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20170530.png)
 
-21. After you choose gitmoji, press enter twice
+22. After you choose gitmoji, press enter twice
 
-22. Sync changes and you're done!!!!
+23. Sync changes and you're done!!!!
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20171528.png)
 
