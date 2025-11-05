@@ -43,17 +43,11 @@
 
 ![Screenshot](https://raw.githubusercontent.com/shannellepalma/palmahtml/refs/heads/main/pictures/Screenshot%202025-11-05%20225944.png)
 
-15. For source control purposes, paste each line separately in the terminal. Change the text in quotes to your name and email address.
+15. For source control purposes, Change the text in quotes to your name and email address.
  
 git config --global user.name "Your Name" 
 
 git config --global user.email "you@youraddress.com"
-
-git config --global push.default matching
-
-git config --global alias.co checkout
-
-git init
 
 16. Also copy and paste this in the bash terminal one by one
 
